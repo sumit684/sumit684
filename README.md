@@ -5,7 +5,6 @@
 ## Projects
 
 ### Production management system for Everest Industries at Smart India Hackathon 19                                                        
-
     - Created a scheduling process for production-based sales data &requirements given by the marketing department. 
     
     - Other Features - Graphical analysis of sales, aging of product, and an Email notification to the team.
