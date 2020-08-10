@@ -13,6 +13,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[linkedin]: www.linkedin.com/in/sumitsingh684
 [<img src="https://sourcerer.io/icons/logo-sharing.svg alt="Sumit Kr Singh Sourcerer Profile">]:https://sourcerer.io/sumit684
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+
