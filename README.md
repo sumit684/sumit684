@@ -1,6 +1,7 @@
 ### Hi there, I'm Sumit Kr Singh - aka [codeSTACKr][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## Computer Engineer 
+## IET-DAVV, Indore
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
