@@ -4,7 +4,7 @@
 
 ## Projects
 
- #### Production management system for Everest Industries at Smart India Hackathon 19                                                        
+ ### Production management system for Everest Industries at Smart India Hackathon 19                                                        
 
     - Created a scheduling process for production-based sales data &requirements given by the marketing department. 
 
@@ -14,25 +14,25 @@
 
     - Technology Stack - PHP, MySQL, JQuery, Google Charts, Email API, CSS, and HTML. 
 
- #### Website of Directorate of Physical Edu. & Sports DAVV            
+ ### Website of Directorate of Physical Edu. & Sports DAVV            
 
     - www.sports.dauniv.ac.in is an official website for DPES, DAVV. Made it easy manageable with better design.
 
     - Developed using PHP, JQuery, JavaScript, CSS, and HTML with a team of four members.
 
- #### Registration Portal for NSS IET-DAVV            
+ ### Registration Portal for NSS IET-DAVV            
 
     - Made the registration process of NSS easy and paperless. It contained Admin & Student Portal.
 
     - Developed using PHP, MySQL, Bootstrap, HTML, and CSS.
 
- #### Android Application & Website for Laser Power Infra Ltd
+ ### Android Application & Website for Laser Power Infra Ltd
 
     - Developed website www.santoshsinghqaqc.epizy.com. It has reports and datasheet information. 
 
     - Android Application uses Google ZXing library for QR Scanning & Image Processing. Scanned Data sent from google sheet using Google AppScripts and web API.
 
- #### Attendance System for NSS                   
+ ### Attendance System for NSS                   
 
     - The attendance chart of volunteers is created by submitting data on each activity. 
 
